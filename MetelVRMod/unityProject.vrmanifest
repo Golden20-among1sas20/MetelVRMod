@@ -5,10 +5,10 @@
       "app_key": "application.generated.unity.metel.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "D:\\unity\\VR\\MetelVRMod\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "D:\\GitHub\\MetelVRMod\\MetelVRMod\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
-          "name": "Metel [Testing]"
+          "name": "MetelVRMod [Testing]"
         }
       }
     }
