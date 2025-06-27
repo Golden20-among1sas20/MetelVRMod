@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &772669012108181771
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 772669012108549419}
+  - component: {fileID: 772669012107255051}
+  - component: {fileID: 772669012106256331}
+  - component: {fileID: 772669012108150701}
+  - component: {fileID: 772669012108150703}
+  - component: {fileID: 772669012108150702}
+  m_Layer: 4
+  m_Name: Hexagon wrench
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &772669012108549419
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 772669012108181771}
+  m_LocalRotation: {x: 0, y: 0.2796615, z: 0, w: 0.9600987}
+  m_LocalPosition: {x: 9.564, y: -3.7325, z: 12.506}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 32.480003, z: 0}
+--- !u!33 &772669012107255051
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 772669012108181771}
+  m_Mesh: {fileID: 4300000, guid: 7632b13af58c907479b799e024adc8b5, type: 3}
+--- !u!23 &772669012106256331
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 772669012108181771}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 79cfaf15de206054ca34f4902cb304bc, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!65 &772669012108150701
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 772669012108181771}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0008924769, y: 0.00038299843, z: 0.0011917972}
+  m_Center: {x: -0.00015385143, y: 0.00010530846, z: -0.00008250531}
+--- !u!114 &772669012108150703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 772669012108181771}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bf8b96b7c1fd92469550a8947b7c1d7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MethodUse: 1
+  SingleUse: 1
+  HideColliderAfterUse: 0
+  DisattachParentAfterUse: 0
+  Anim: {fileID: 0}
+  ResetAnimClip: {fileID: 0}
+  AudioSrc: {fileID: 0}
+  SuccessAudio: {fileID: 0}
+  Audio: {fileID: 0}
+  CloseAudio: {fileID: 0}
+  FailedAudio: {fileID: 0}
+  RequierePlace: {fileID: 0}
+  RequiereItem: -1
+  ShowObjAfterUseItem: {fileID: 0}
+  HideObjAfterUseItem: {fileID: 0}
+  CantUseBeforeUse: {fileID: 0}
+  PlayAfterItemUse: 0
+  MessageOnWrongUse: 
+  InfoMessage: 
+  MakeNoise: 0
+  Letter: {fileID: 0}
+  ActiveObj: {fileID: 0}
+  DisactiveObj: {fileID: 0}
+  RequiereHideObj: {fileID: 0}
+  DestroyParts: []
+  VelocityParts: {x: 0, y: 0, z: 0}
+  SendUseAfterUse: {fileID: 0}
+  PlayerReplic: {fileID: 0}
+  TriggerForPlayerReplic: {fileID: 0}
+  CheckByManiac: 0
+  ManiacReplic: {fileID: 0}
+  CanUseWhileChasing: 1
+--- !u!114 &772669012108150702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 772669012108181771}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2438009de4d30a044a7d8cc0197e34a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ID: 24
+  Icon: {fileID: 21300000, guid: 06c8134c94cfa9d4da18b552dae9ef59, type: 3}
+  ItemName: "\u0428\u0435\u0441\u0442\u0438\u0433\u0440\u0430\u043D\u043D\u0438\u043A"
+  QuantityUse: 4

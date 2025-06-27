@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &88542226128788319
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 88542226128788317}
+  - component: {fileID: 88542226128788318}
+  m_Layer: 0
+  m_Name: SubtitlesManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &88542226128788317
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 88542226128788319}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.7193854, y: 0.60127926, z: -1.504945}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &88542226128788318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 88542226128788319}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed512369e3df5343aa9c662b87b6093, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SubtitlesText: {fileID: 0}
+  SubtitlesMain: {fileID: 0}
+  TextsArray:
+  - Clip: {fileID: 8300000, guid: 3fe9808dc0911a4469e6036b13b9e5b9, type: 3}
+    Subtitle: Al1
+  - Clip: {fileID: 8300000, guid: 6f19701588ff40b439f491a06e60adf6, type: 3}
+    Subtitle: Al2
+  - Clip: {fileID: 8300000, guid: 1d9d6c908f7bf7a44a1420bb71ddb029, type: 3}
+    Subtitle: Al3
+  - Clip: {fileID: 8300000, guid: 85908de3649cf464d90b3fae4acdc6a2, type: 3}
+    Subtitle: Al4
+  - Clip: {fileID: 8300000, guid: cdc18ccba5a4eaa44b5910eda42e9a11, type: 3}
+    Subtitle: Al5
+  - Clip: {fileID: 8300000, guid: ab9a5d068e05cdb4db1423edde734e67, type: 3}
+    Subtitle: Al6
+  - Clip: {fileID: 8300000, guid: 4472a28415f40d14d8a096e53e25cb7d, type: 3}
+    Subtitle: Al7
+  - Clip: {fileID: 8300000, guid: a50758446b11a1d40be9bef0f71b5298, type: 3}
+    Subtitle: Al8
+  - Clip: {fileID: 8300000, guid: 957a3ed4b9a922e4e9b8500f746539ab, type: 3}
+    Subtitle: Al19
+  - Clip: {fileID: 8300000, guid: 4e7b37fda370f464f95ed9ef8a327af0, type: 3}
+    Subtitle: Al10
+  - Clip: {fileID: 8300000, guid: 86f627a9aea8c794e884b7913d61e55f, type: 3}
+    Subtitle: Al11
+  - Clip: {fileID: 8300000, guid: a5b8ffa7be1645142a9d2507c42ab418, type: 3}
+    Subtitle: Al12
+  - Clip: {fileID: 8300000, guid: 46ed81407eaac7740937856bf0b871c1, type: 3}
+    Subtitle: Al13
+  - Clip: {fileID: 8300000, guid: a10238a339458ff4e9d7343b0cc59ce1, type: 3}
+    Subtitle: Fr1
+  - Clip: {fileID: 8300000, guid: 3df10dffd0c7b0243884e0f355892523, type: 3}
+    Subtitle: Fr2
+  - Clip: {fileID: 8300000, guid: 6a7801ad4b848f943b84d9e7bf59cb0a, type: 3}
+    Subtitle: Fr3
+  - Clip: {fileID: 8300000, guid: e02d352b8e21b9d4394768626cd2d011, type: 3}
+    Subtitle: Fr4
+  - Clip: {fileID: 8300000, guid: e6257c4f4e37348488f80c2ccdc07aae, type: 3}
+    Subtitle: Fr5
+  - Clip: {fileID: 8300000, guid: cebba356224cc7e4d9859c59a330577a, type: 3}
+    Subtitle: Fr6
+  - Clip: {fileID: 8300000, guid: 5d6070aaf7b750b4d8cd20b2537a4895, type: 3}
+    Subtitle: Fr7
+  - Clip: {fileID: 8300000, guid: bb3fda2b923c99541b5d820639cc1578, type: 3}
+    Subtitle: Fr8
+  - Clip: {fileID: 8300000, guid: c10b3d743d7a00b43a273b2e45446129, type: 3}
+    Subtitle: Fr9
+  - Clip: {fileID: 8300000, guid: af0c359c1d1cad541ab62e8859e46597, type: 3}
+    Subtitle: Fr10
+  - Clip: {fileID: 8300000, guid: ea4357ad4fe710e43ba56e02d4b725e5, type: 3}
+    Subtitle: Fr11
+  - Clip: {fileID: 8300000, guid: ef31625a24363dd40a03b27b8195ef45, type: 3}
+    Subtitle: Fr12
+  - Clip: {fileID: 8300000, guid: ec729f1a9c7db684cbf850bc2f690092, type: 3}
+    Subtitle: Fr13
+  - Clip: {fileID: 8300000, guid: 05f4d00390a5af64098a016a9869f372, type: 3}
+    Subtitle: Fr14
+  - Clip: {fileID: 8300000, guid: abb7d2d9b30eda74f94754ce7276c4be, type: 3}
+    Subtitle: Fr15
+  - Clip: {fileID: 8300000, guid: 041596454da2e37418c839e583048d93, type: 3}
+    Subtitle: Fr16
+  - Clip: {fileID: 8300000, guid: 6e28d0a358b4d124c92d0a1ee27b5c9c, type: 3}
+    Subtitle: Fr17
+  - Clip: {fileID: 8300000, guid: 9bf0d0a8c0e48b848a6c87df131f4a85, type: 3}
+    Subtitle: Fr18
+  - Clip: {fileID: 8300000, guid: 69c8e2241c63c024d89381514a2e6f6c, type: 3}
+    Subtitle: Fr19
+  - Clip: {fileID: 8300000, guid: f071f8f0a3d8d2b4485c02aa1a166786, type: 3}
+    Subtitle: Fr20
+  - Clip: {fileID: 8300000, guid: ad0037e9dea63494287fa539e1cc0364, type: 3}
+    Subtitle: Fr21
+  - Clip: {fileID: 8300000, guid: 5c23e8ba89e1c3043befa373f3f0743d, type: 3}
+    Subtitle: Fr22
+  - Clip: {fileID: 8300000, guid: 31eb82e5f0e96d24a8a9140c26bdbf39, type: 3}
+    Subtitle: Fr23
+  - Clip: {fileID: 8300000, guid: 071fdb0da168ab44f8d24013a73c38a7, type: 3}
+    Subtitle: Fr24
+  - Clip: {fileID: 8300000, guid: ff64a4aa4f43ba344b5a720ff37afec1, type: 3}
+    Subtitle: Fr25
+  - Clip: {fileID: 8300000, guid: 7ccbf73ea105f044b86a75a32fb04c66, type: 3}
+    Subtitle: Fr26
+  - Clip: {fileID: 8300000, guid: 56c00f10a19e70048b4ae58cbd7560e8, type: 3}
+    Subtitle: Fr28
+  - Clip: {fileID: 8300000, guid: 1aab42f5063561d4394b0eb46c660879, type: 3}
+    Subtitle: Fr29
+  - Clip: {fileID: 8300000, guid: 2bd55f3471936474daeae2d5ea6fd38d, type: 3}
+    Subtitle: Fr30
+  - Clip: {fileID: 8300000, guid: 60f35c60592acc340a608786d6ae07b0, type: 3}
+    Subtitle: Fr31
+  - Clip: {fileID: 8300000, guid: c71dfb1523bfa33499e5d5125c8e7597, type: 3}
+    Subtitle: Fr32
+  - Clip: {fileID: 8300000, guid: 29519ae31c5379743b6ac63f18011c82, type: 3}
+    Subtitle: Fr34
+  - Clip: {fileID: 8300000, guid: 3b55b7d0a7e4eec44bb67d1f5984d6c1, type: 3}
+    Subtitle: Fr35
+  - Clip: {fileID: 8300000, guid: 6d2dede2fe968844481d60c25c5ce9ad, type: 3}
+    Subtitle: Fr36
+  - Clip: {fileID: 8300000, guid: 6d8c1ac85e2cac84a98d989edba47228, type: 3}
+    Subtitle: Fr37
+  - Clip: {fileID: 8300000, guid: 15b76cc6cb02003498c5b595c89b1e3b, type: 3}
+    Subtitle: Fr38
+  - Clip: {fileID: 8300000, guid: cf83b560ceca49240a073404e83cfb89, type: 3}
+    Subtitle: Fr39

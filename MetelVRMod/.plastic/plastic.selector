@@ -1,0 +1,4 @@
+repository "Metel Horror Game@Linked_Squad@cloud"
+  path "/"
+    br "/main"
+    co "/main"

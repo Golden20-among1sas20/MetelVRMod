@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 32f43a8aeb844fc499af4b98e9356c45
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Brick_A
+    100002: Brick_B
+    100004: Brick_C
+    100006: Brick_D
+    100008: Brick_E
+    100010: Brick_F
+    100012: Brick_G
+    100014: //RootNode
+    100016: Brick_Part
+    100018: Brick_Part.001
+    100020: Brick_Part.002
+    100022: Brick_Part.003
+    100024: Brick_Part.004
+    100026: Brick_Part.005
+    100028: Brick_Part.006
+    400000: Brick_A
+    400002: Brick_B
+    400004: Brick_C
+    400006: Brick_D
+    400008: Brick_E
+    400010: Brick_F
+    400012: Brick_G
+    400014: //RootNode
+    400016: Brick_Part
+    400018: Brick_Part.001
+    400020: Brick_Part.002
+    400022: Brick_Part.003
+    400024: Brick_Part.004
+    400026: Brick_Part.005
+    400028: Brick_Part.006
+    2300000: Brick_A
+    2300002: Brick_B
+    2300004: Brick_C
+    2300006: Brick_D
+    2300008: Brick_E
+    2300010: Brick_F
+    2300012: Brick_G
+    2300014: Brick_Part
+    2300016: Brick_Part.001
+    2300018: Brick_Part.002
+    2300020: Brick_Part.003
+    2300022: Brick_Part.004
+    2300024: Brick_Part.005
+    2300026: Brick_Part.006
+    3300000: Brick_A
+    3300002: Brick_B
+    3300004: Brick_C
+    3300006: Brick_D
+    3300008: Brick_E
+    3300010: Brick_F
+    3300012: Brick_G
+    3300014: Brick_Part
+    3300016: Brick_Part.001
+    3300018: Brick_Part.002
+    3300020: Brick_Part.003
+    3300022: Brick_Part.004
+    3300024: Brick_Part.005
+    3300026: Brick_Part.006
+    4300000: Brick_F
+    4300002: Brick_G
+    4300004: Brick_C
+    4300006: Brick_D
+    4300008: Brick_A
+    4300010: Brick_B
+    4300012: Brick_E
+    4300014: Brick_Part.006
+    4300016: Brick_Part.005
+    4300018: Brick_Part.004
+    4300020: Brick_Part.003
+    4300022: Brick_Part.002
+    4300024: Brick_Part.001
+    4300026: Brick_Part
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Damage
+    second: {fileID: 2100000, guid: 5d5d12dab0380d2459240562ad983458, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

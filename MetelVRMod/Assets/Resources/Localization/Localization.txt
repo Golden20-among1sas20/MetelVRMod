@@ -1,0 +1,534 @@
+
+	|ПАНЕЛЬ МЕНЮ|
+|Начать игру|Start Game|
+|Настройки|Settings|
+|Магазин|Store|
+|Инвентарь|Inventory|
+|Сквад|Squad|
+|Выход|Quit|
+|Ранний доступ|Early Access|
+
+	|ПАНЕЛЬ СТАРТ|
+|Выберите главу чтобы начать играть|Select a chapter to start playing|
+|Алан|Alan|
+|Перехитрите маньяка, и сбегите из дома.|Outsmart the maniac and escape from the house.|
+|Адель|Adele
+|Уровень в разработке.|Level in development.|
+|Эмили|Emily|
+|Ночь в холодном подвале.|Night in a cold basement.|
+|Юджин|Eugene|
+|Начало страшной истории. Бета.|The beginning of a scary story. Beta.|
+|Уровень в разработке.|Level in development.|
+|Играть|Play|
+|Скоро|Soon|
+|Совсем скоро|Coming soon|
+|Назад|Back|
+
+	|ПАНЕЛЬ ЗАГРУЗКИ|
+Lo1|Нажмите|Tap to continue|
+
+	|ПАНЕЛЬ НАСТРОЙКИ|
+|Громкость музыки|Music volume|
+|Громкость эффектов|Effect volume|
+|Чувствительность|Sensitivity|
+|Яркость|Brightness|
+|Фпс|Fps|
+|Русский|English|
+|Русский |Русский |
+|English |English |
+|Субтитры|Subtitles|
+
+	|ПАНЕЛЬ МАГАЗИН|
+|Магазин|Store|
+
+|Чумной доктор|Plague Doctor|
+|Чумной доктор, маска для маньяка.|Plague doctor, mask for a maniac.|
+|Маска клоуна|Clown mask|
+|Страшная маска клоуна для маньяка.|Scary clown mask for a maniac.|
+
+|Маска психопата|Psychopath mask|
+|Маска психопата для маньяка.|Psychopath mask for a maniac.|
+
+|Реклама выкл.|Disable Ads|
+|Отключить рекламу, в игре.|Disable ads in the game.|
+
+|Маска злой санта|Evil santa mask|
+|Злой санта, маска для маньяка.|Evil santa, maniac mask.|
+
+|Противогаз садиста|Sadist gas mask|
+|Противогаз садиста для маньяка.|A sadist's gas mask for a maniac.|
+
+|Рваный мешок|Torn bag mask|
+|Маска рваный мешок для маньяка.|The mask is a torn bag for a maniac.|
+
+|Премиум|Premium|
+|Весь старый и новый контент в игре бесплатный.|All old and new content in the game is free.|
+|Купить|Buy|
+|Подписаться|Subscribe|
+|Инвентарь|Inventory|
+|Выбрать|Select|
+|Выбрана|Selected|
+|Выбран|Selectеd|
+|Заблокирована|Locked|
+|Приобретено|Purchased|
+|Недоступно|Not available|
+|Секретная|Secret|
+|Классический|Classical|
+|Классический костюм для маньяка.|Classic costume for a maniac.|
+|Мясник|Butcher|
+|Скин мясника для маньяка.|Butcher skin for a maniac.|
+
+
+	|ПАНЕЛЬ О НАС|
+|Команда инди-разработчиков.|Indie development team.|
+|Группа вконтакте|Vkontakte community|
+|Ютуб канал|YouTube Channel|
+|Почта|Mail|
+|Инстаграм|Instagram|
+|Продюсер, 3D-художник.|Producer, 3D artist.|
+|Программист.|Programmer.|
+|Редактор, тестировщик.|Editor, tester.|
+
+	|ПАНЕЛЬ ПОЛИТИКИ|
+|Политика конфиденциальности|Privacy policy|
+|Принять|Accept|
+|Отказаться|Decline|
+Privacy|Вы бы хотели, чтобы мы показывали вам подходящую рекламу?\n\nНажимая «Принять», вы разрешаете отправку рекламного идентификатора, данных о ваших интересах и событиях, происходящих в игре, партнерам Linked Squad. Вам будут показаны более релевантные объявления.\n\nЕсли вы отклоните запрос, вам будут показаны случайные объявления.\n\nВы можете изменить свой выбор позже, выбрав опцию «НАСТРОЙКИ».|Would you like us to show ads that suit you?\n\nBy clicking accept, you authorize the sending of the advertising identifier, data about your interests and events taking place in the game, to Linked Squad partners. You will be shown more relevant ads.\n\nIf you decline your request, you will be shown random ads.\n\nYou can change your choice later by choosing the "SETTINGS" option.|
+
+	|ПАНЕЛЬ АНОНИМНОЙ ИНФОРМАЦИИ|
+|помощь в улучшении игры|Helping in collect info|
+Anonim Info|Помогите нам в улучшении игры, отправляя анонимные данные о действиях в игре.|Help us in game-developing, by sending anonymous information about actions in the game.
+
+
+	|ПАНЕЛЬ ВЫХОД|
+|Выйти из игры?|Quit the game?|
+|Да|Yes|
+|Нет|No|
+
+
+	|ПАНЕЛЬ ПАУЗА|
+|Пауза|Pause|
+|Продолжить|Continue|
+|Заново|Restart|
+|Выйти|Exit|
+
+	|ПАНЕЛЬ ЗАНОВО|
+|Начать заново?|Restart?|
+
+	|ПАНЕЛЬ ВЫХОД В МЕНЮ|
+|Выйти в меню?|Exit to the menu?|
+
+	|ПАНЕЛЬ ПРОИГРЫШ|
+|Вы проиграли|You lost|
+
+	|ПАНЕЛЬ ВЫЙГРЫШ|
+|Вы сбежали от маньяка!|You ran away from a maniac!|
+|Вы нашли выход и обнаружили еще одну жертву, помогите ей выбраться.|You found a way out and found another victim, help her get out.|
+|Время прохождения|Level time|
+|Оставить отзыв|Write a review|
+|Вы сбежали от маньяка и помогли выбраться другой жертве.|You escaped from a maniac and helped another victim get out.
+|Плохая концовка. Вы сбежали от маньяка!|Bad ending. You escaped from a maniac!
+
+	|ПАНЕЛЬ ТЕРМИНАЛ|
+|Авторизация|Authorization|
+|Пропустить ввод пароля за рекламу|Skip password entry for ads|
+|Войти|Login|
+|Управление помещением|Room management|
+|Лифт|Elevator|
+|Включить|Enable|
+|Дверь|Door|
+|Открыть|Open|
+|Закрыть|Close|
+|Добро пожаловать в панель управления!|Welcome to the control panel!|
+|Нет питания|No power|
+|Лифт включен|Elevator included|
+|Дверь открыта|The door is open|
+|Дверь закрыта|The door is closed|
+|Повторите попытку через 30 сек.|Try again after 30 seconds.
+
+	|ЗАПИСКА МАКСА|
+Mn1|13.01.2012\nМеня зовут Макс. Вчера вечером на меня напали, а сегодня я проснулся в этой жуткой комнате. Какой-то псих закрыл меня в железной клетке и решил позабавится со мной.\nОн бил меня током, но что-то его отвлекло и он ушел в дальнюю часть дома. Я выбрался из клетки и начал осматривать комнату в попытках найти выход. Входная дверь была надежно заперта, но я нашёл другую с кодовым замком. Я смог взломать терминал и открыть ее, она вела в ванную комнату. После тщательного изучения комнаты, я обнаружил потайной ход, в комнату с лифтом. Сейчас я дописываю эту записку, после чего попытаюсь поднять лифт наверх, пока маньяк не вернулся. Я надеюсь, что я нашел путь к спасению и скоро этот кошмар закончится.\n\nПароль - это север, запад, восток, юг.|01.13.2012\nMy name is Max. I was attacked last night, and today I woke up in this eerie room. Some psycho closed me in an iron cage and decided to have fun with me.\nHe shocked me, but something distracted him and he went to the far part of the house. I got out of the cage and started looking around the room, trying to find a way out. The front door was securely locked, but I found another with a combination lock. I was able to hack into the terminal and open it, it led to the bathroom. After carefully examining the room, I discovered a secret passage to a room with an elevator. Now I am finishing this note, after which I will try to lift the elevator up until the maniac returns. I hope that I have found a way to escape and this nightmare will end soon.\n\nPassword is north, west, east, south.|
+
+
+	|ЗАПИСКА С ИНСТРУКЦИЕЙ ПК|
+Fc1|Пожарный шкаф закрыт на ключ и опломбирован|The fire cabinet is locked and sealed|
+Fc2|1.Пожарный шкаф\n2.Ключ за стеклом\n3.Огнетушитель|1.Fire cabinet\n2.Key behind glass\n3.Fire extinguisher|
+Fc3|При пожаре\n1.Разбить стекло взять ключ\n2.Окройте шкаф ключем\n3.Возьмите огнетушитель\n4.Выдерните чеку\n5.Направте сопло в огонь и нажмите рычаг|In case of fire\n1.Break the glass and take the key\n2. Open the cabinet with the key\n3. Take the fire extinguisher\n4. Pull the pin\n5. Point the nozzle into the fire and press the lever|
+
+	|ГАЗЕТА|
+Np1|Утро|Morning|
+Np2|День|Day|
+Np3|Вечер|Evening|
+Np4|Ночь|Night|
+Np5|13 декабря 2013\nПятница|December 13, 2013\nFriday|
+Np6|14 декабря 2013\nСуббота|December 14, 2013\nSaturday|
+Np7|Ветер  5-6 м/с\nЗападный|Wind 5-6 m/s\nWest|
+Np8|Ветер  4-5 м/с\nЗападный|Wind 4-5 m/s\nWest|
+Np9|Ветер  4-6 м/с\nСеверо-западный|Wind 4-6 m/s\nNorthwestern|
+
+Np10|Ветер  5-6 м/с\nСеверный|Wind 5-6 m/s\nNorthern|
+Np11|Ветер  4-5 м/с\nСеверный|Wind 4-5 m/s\nNorthern|
+Np12|Ветер  4-6 м/с\nСеверный|Wind 4-6 m/s\nNorthern|
+Np13|Ветер  5-7 м/с\nСеверный|Wind 5-7 m/s\nNorthern|
+
+Np14|Влажность - 76%\nАтмосферное\nдавление - 0.412|Humidity - 76%\nAtmospheric\nnpressure - 0.412|
+Np15|Влажность - 86%\nАтмосферное\nдавление - 0.436|Humidity - 86%\nAtmospheric\nnpressure - 0.436|
+Np16|Влажность - 80%\nАтмосферное\nдавление - 0.540|Humidity - 80%\nAtmospheric\nnpressure - 0.540|
+Np17|Влажность - 78%\nАтмосферное\nдавление - 0.534|Humidity - 78%\nAtmospheric\nnpressure - 0.543|
+
+Np18|Влажность - 76%\nАтмосферное\nдавление - 0.401|Humidity - 76%\nAtmospheric\nnpressure - 0.401|
+Np19|Влажность - 85%\nАтмосферное\nдавление - 0.417|Humidity - 85%\nAtmospheric\nnpressure - 0.417|
+Np20|Влажность - 79%\nАтмосферное\nдавление - 0.530|Humidity - 79%\nAtmospheric\nnpressure - 0.530|
+Np21|Влажность - 77%\nАтмосферное\nдавление - 0.524|Humidity - 77%\nAtmospheric\nnpressure - 0.524|
+Np22|Внимание: с 10 декабря по 20 декабря на улице сильный ветер со снегом.|Attention: from December 10 to December 20, there is a strong wind with snow outside.|
+
+	|ЗАПИСКА РАСТВОР|
+Ns1|Название: МЛ - 245\n\nОписание: раствор для проявления невидимых чернил.\n\nКоличество: 8шт.\nВес: 4кг\nСтоимость: 54$|Name: ML - 245\n\nDescription: solution for developing invisible ink.\n\nQuantity: 8pcs.\nWeight: 4kg\nCost: 54 $
+
+	|ЗАПИСКА ЗАДАЧ НА ДЕНЬ|
+Nt1|Купить невидимые чернила.\nВыкинуть мусор.\nПоставить будильник.\nПоложить ключ карту в сейф.|Buy invisible ink.\nThrow out the trash.\nSet an alarm.\nPut the key card in the safe.
+	
+	|ЗАПИСКА НА ЧЕРДАКЕ|
+Na1|Как же меня бесит этот мальчик!\nЛомает все игрушки, и расскидывает их по всему двору. А теперь добрался и до моих кассет, вот гад!\nНадо спрятать кассеты на полке по выше, чтобы этот недоносок не нашел их.|How this boy pisses me off!\nBreaks all the toys and throws them all over the yard. And now he got to my cassettes, here is a goat!\nI need to hide the cassettes on the shelf up above so that the bastard won't find them.
+	
+	|ЗПИСКА С ЗАГАДКОЙ|
+Nz1|?\nСидел у берега один рыбак\nОн ждал поклёвки целый час\nКак вдруг стянулись тучи в небе\nПогас огонь костра из-за дождя\nИсчезли звезды, остался месяц\nИ грустный взгляд у рыбака|?\nOne fisherman was sitting by the shore\nHe was waiting for a bite for an hour\nSuddenly clouds gathered in the sky \nThe fire went out in the rain \nThe stars disappeared, a month remained\nAnd the sad eyes of the fisherman
+
+	|ИТЕМЫ|
+Item1|Ключ|Key|
+Item2|Плоскогубцы|Pliers|
+Item3|Изолента|Tape|
+Item4|Отвертка|Screwdriver|
+Item5|Гвоздодер|Nail puller|
+Item6|Часть кирки А|Pick part A|
+Item7|Часть кирки В|Pick part B|
+Item8|Кирка|Pick|
+Item9|Пилка по металу|Metal saw|
+Item10|Гаечный ключ|Wrench|
+Item11|Рукоятка|Lever|
+Item12|Дверной засов|Door bolt|
+Item13|Рычаг|Lever arm|
+Item14|Молоток|Hammer|
+Item15|Отмычка|Lock pick|
+Item16|Календарь 2013|2013 calendar|
+Item17|||
+Item18|||
+Item19|||
+Item20|||
+Item21|||
+Item22|Ножницы|Scissors|
+Item23|||
+Item24|||
+Item25|Предохранитель|Fuse|
+Item26|||
+Item27|||
+Item28|||
+Item29|Кусок льда|Piece of ice|
+Item30|Раствор МЛ-245|Solution ML-245|
+Item31|||
+Item32|Вилка|Fork|
+Item33|Ключи|Keys|
+Item34|||
+Item35|Метла|Broom|
+Item36|||
+Item37|Топор|Axe|
+Item38|Деревянная рукоятка|Wooden handle|
+Item39|Болторез|Bolt cutter|
+Item40|Масленка с маслом|Oiler can with oil|
+Item41|Пустая масленка|Empty oiler can|
+Item42|Ведро|Bucket|
+Item43|Ведро с водой|Bucket with water|
+Item44|||
+Item45|||
+Item46|Лом|Crowbar|
+Item47|Напильник|File|
+Item48|Ключ карта|Key card|
+Item49|||
+Item50|||
+Item51|||
+Item52|Ручка|Handle|
+Item53|Магнит|Magnet|
+Item54|Металлическая рукоятка|Metal handle|
+Item55|Штопор|Corkscrew|
+Item56|||
+Item57|||
+Item58|||
+Item59|Ржавый нож|Rusty knife|
+Item60|||
+Item61|Лампочка|Lightbulb|
+Item62|Кусачки|Nippers|
+Item63|||
+Item64|Стул|Chair|
+Item65|Кассета|Cassette|
+Item66|||
+Item67|||
+Item68|||
+Item69|||
+Item70|||
+
+
+
+	|ПОДСКАЗКИ|
+NC|Нет подключения к интернету|No connection|
+H0|- Подсказка|- Hint|
+H1|Двигайтесь на маркер|Move to marker|
+H2|Скройте все улики и возращайтесь в клетку|Hide all evidence and return to the cage|
+H3|Включите интернет|Turn on the internet|
+H4|Ящик с замком|Lock box|
+H5|Замок запаян|The lock is sealed|
+H6|Заперто с другой стороны|Locked on the other side|
+H7|Дверь с электронным замком|Door with electronic lock|
+H8|Ключ за стеклом|Key behind glass|
+H9|Ящик закрыт на ключ|The box is closed with a key|
+H10|Обрыв провода|Broken wire|
+H11|Нет питания|No power|
+H12|Панель управления выключена|Control panel is off|
+H13|Звонок|Bell|
+H14|Чертеж кирки|Pick drawing|
+H15|Зажатый ключ в тисках|Clamped wrench in a vice|
+H16|14 декабря 2013|December 14, 2013|
+H17|Рукоятка прибитая скобами к стене|Handle nailed with staples to the wall|
+H18|Скоба|Staple|
+H19|Скоба для засова|Bolt bracket|
+H20|Веревка|Rope|
+H21|Не поддается, может попробовать еще раз?|Can't give in, can you try again?|
+H22|Цепочка|Chain|
+H23|Раковина привинчена к стене болтом|The sink is bolted to the wall|
+H24|Болт|Bolt|
+H25|Кислота|Acid|
+H26|Крышка унитаза привинчена на винты|The toilet lid is screwed on|
+H27|Кирпичная кладка|Brickwork|
+H28|Нужен рычаг|Need a lever arm|
+H29|Нет электричества|No electricity
+H30|Заперто|Locked
+H31|Надежно заперто|Securely locked
+H32|Винт|Screw
+H33|Полка для календаря|Calendar shelf
+H34|Заперто на ключ|Locked with a key
+H35|Дверь привинчена болтом|The door is screwed on
+H36|Заперто на замок|Locked up
+H37|Ящик заперт|The box is locked
+H38|Заперто на щеколду|Closed on the heck
+H39|Шкафчик|Locker
+H40|Нет дверной ручки|No door handle
+H41|Чистый лист бумаги|Blank paper
+H42|Что-то мешает открыть дверь|Something prevents you from opening the door
+H43|Лёд|Ice
+H44|Требуется ключ карта|Key card required
+H45|Щиток закрыт|Shield closed
+H46|Гвоздь|Nail
+H47|Дверь ящика прибита на гвозди|The drawer door is nailed.
+H48|Гермодверь|Hermetic door
+H49|Сейф|Safe
+H50|Бочка с маслом|Oil barrel
+H51|Вода|Water
+H52|Пусто|Empty
+H53|Ржавый вентиль|Rusty valve
+H54|Не дотянуться|Out of reach
+H55|Горячий пар|Hot steam
+H56|Не хватает предохранителя|The fuse is missing
+H57|Ящик закрыт на ключ|The box is closed with a key
+H58|Получено:|Received:
+H59|Положите предмет во внутрь, закройте дверь и нажмите кнопку|Put the item in, close the door and press the button
+H60|Слишком темно|Too dark
+H61|Сначала нужно поднять лифт|First you need to lift the elevator
+H62|Для включения требуется 24v|Requires 24v to turn on
+H63|Ящик|Box
+H64|Ящик обмотан скотчем|The box is wrapped with tape
+H65|Крюк для веревки|Rope hook
+H66|Без рукоятки не поднять|Do not lift without a handle
+H67|Топор без рукоятки|Ax without handle
+H68|Что-то мешает открыть|Something is interfering
+H69|Проволока|Wire
+H70|Старая дверь|Old door
+H71|Светлый кирпич под окном|Light brick under the window
+H72|На чердаке нету лампочки|There is no light bulb in the attic
+H73|Нужна лампочка|Need a light bulb
+H74|Кассетный плеер|Cassette player
+H75|Закрытый чемодан|Closed suitcase
+H76|Хрупкая ваза|Fragile vase
+H77|Бочка с водой|Barrel of water
+H78|Петля|A loop
+H79|Сундук|Chest
+H80|Пробка|Cork
+H81|Решетка привинчена болтами|The grille is screwed on
+H82|Мотор лифта|Elevator motor
+H83|Олень из будущего|Deer from the future
+H84||
+H85||
+H86||
+H87||
+H88||
+H89||
+
+
+
+	|ПОДСКАЗКИ ПЕРЕЗАГРУЗКА|
+Re1|Осторожно! Маньяк может заметить открытые ящики, двери.|Caution! A maniac can notice open boxes, doors.
+Re2|Если вы не успеете вернуться в клетку маньяк может вас поймать!|If you do not have time to return to the cage, the maniac can catch you!
+Re3|В настройках игры можно включить субтитры и не только.|In the game settings, you can enable subtitles and more.
+Re4|В главе Эмили есть секретная концовка!|Emily's chapter has a secret ending!
+Re5|Подпишитесь на наш YouTube канал.|Subscribe to our YouTube channel.
+Re6|Напишите нам если вам что-то не понравилось.|Write to us if you don't like something.
+Re7|В "МЕНЮ" в разделе "ИНВЕНТАРЬ" можно сменить скин или маску маньяка.|In the "MENU" in the "INVENTORY" section, you can change the skin or mask of the maniac.
+Re8|Игра находится в раннем доступе.|The game is in Early Access.
+Re9|Спасибо что играете в нашу игру.|Thank you for playing our game.
+Re10|
+
+	|АЛАН|
+Al0|Сегодня работа немного затянулась и мне пришлось возвращаться домой ночью.\nНа улице была метель. Я шёл и думал, как бы поскорее вернуться домой... Не хотелось в такую погоду находиться на улице.\n\nДорога шла через небольшой лес. Впереди виднелись тусклые огни домов.\nВдруг мне показалось, что в лесу кто-то ходит и наблюдает за мной. "Наверное, почудилось" - подумал я. Однако, тень шевельнулась! Я отчетливо увидел, что кто-то ходит по лесу и смотрит на меня. Мне стало не по себе. В такую погоду нормальный человек не будет ходить по лесу.\nПриступ страха сковал меня. Я ускорил шаг! Стоило мне оглянуться назад, как я оторопел: чья-то фигура бежала по моим следам, пытаясь приблизиться ко мне. Я рванул что есть мочи вперёд! Тот, кто бежал за мной, не думал останавливаться. В какой-то момент я не заметил, как мои ноги подкосились и я поскользнулся. Упав лицом в снег, я быстро поднялся, но в этот миг кто-то резко дёрнул меня за плечо. Я увидел лишь тень, как сразу получил сильный удар в голову... Я вырубился.\nНе знаю, сколько прошло времени, но очнулся я в старом холодном помещении.\nЧёрт! Я был заперт в металлической клетке! Спустя минуту открылась дверь, в комнату вошёл он…|AWAKENING.\n\nMy work took a little bit more time today, and I had to go home at night.\nThere was a snowstorm, that's why I wanted to come home as soon as possible.\n\nMy road went through a small forest. I was watching dim house lights. Really nice.\nSuddenly it felt like someone was staring at me. I thought: "Maybe it's just it my mind?". But the shadow moved, and I saw that someone is going through the forest and watching me. I felt creepy. A normal person would not walk in such a bad weather. I was paralized with fear and sped up. I looked back and saw that someone was chasing me. I ran as fast as I could, he was also running trying his best to catch me. At some moment I fell face into the snow. I stood up very quickly, but it was too late. Someone rapidly pulled my shouilder. I've seen only a shadow before I was knockedout with a strong punch.\n\nI have no idea, how much time I spent unconscious, but I woke up in a cold old building.\nShit, I was locked in a metal cage. After a minute the door opened and he came in ...|
+Al1|Чёрт!|No, no!|
+Al2|Нет, нет!|Fuck!|
+Al3|Твою же мать!|God dammit!|
+Al4|Нужно поскорее вернуться в клетку|I should rush back to the cage|
+Al5|Главное, чтобы он не заметил, что я вылезал из клетки|I hope he won't notice that I was outside the cage|
+Al6|Нужно выбираться отсюда|I have to leave this fucking place|
+Al7|Нужно чем-то запереть дверь, чтобы у меня хватило времени сбежать|I should lock the door to have enough time for escape|
+Al8|Давай, давай быстрее!|Come on, hurry up!|
+Al9|Нет, нет! Я больше не буду|No, no stop it|
+Al10|Прошу, не надо!|No, please, I won't do it again|
+Al11|Отлично|Nice|
+Al12|Да пошёл ты! Урод…|Go to hell, mother fucker!|
+Al13|Какого чёрта тут происходит!?|What the hell is going on here!?|
+
+	|Адель|
+Ad1|Нет фраз|
+
+	|Эмили|
+Em0|Сегодня у подруги была вечеринка - много гостей и ********. Я хорошо провела время. К часу ночи я начала собираться, вышла на улицу и села в городское такси. За окном машины ничего не было видно - была сильная метель. Мы ехали около часа до моего дома. Наконец, машина остановилась и таксист с ухмылкой сказал: "Приехали". Когда я вышла, вокруг был сплошной лес. Не успев ничего сказать, я получила удар в голову и потеряла сознание.\nПроснулась в старом подвале от громкого шума в соседней комнате. Через мгновение шум прекратился... и появился он...|My friend threw a party tonight — lots of people, all drinking and having fun. At about 1:00 a.m. I took my stuff and left, and then I got on a taxi. I couldn’t see anything through the window, there was a bad blizzard outside. The way home must have taken an hour or so. Finally the car stopped and I heard the the taxi driver saying: “Here we are”. When I went out I couldn’t see anything, but trees — we were in the forest. Hardly had I utter a word he hit my head and I passed out.\nI woke up in a dusty basement from the loud noise, coming from behind the wall. Suddenly the noise stopped, and in a moment he entered the room. 
+Em1|Нужно по скорее найти выход|I need to find the way out.
+Em2|Надеюсь он ничего не заметит|I hope he won’t suspect a thing.
+Em3|Нужно вернуться обратно в камеру|I need to get back to the cell.
+Em4|Нет! Нет!|No!..No!..
+Em5|Прошу, не надо!|Please, don’t!
+Em6|Я больше не буду!|I won’t do that again!
+Em7|Аааа!|Аааа!
+Em8|Ааа-аа!|Ааа-аа!
+Em9|Аах, нет!|Aaah, crap!
+Em10|Проклятие!|Damn!
+Em11|Твою же!|Holy…
+Em12|Думай быстрее!|Come on, think faster!
+Em13|Нужно запереть его, когда он зайдет в комнату|I need to lock him up when he’s inside the room.
+Em14|Давай!|Come on…
+Em15|А! Горячо!|Ah, it’s hot!
+Em16|Нужно сваливать отсюда, пока он не выбил дверь.|I need to get out of here before he breaks in!
+Em17|Кто-нибудь, помогите!|Anybody! Help!
+Em18|Что вам от меня нужно!?|What do you want from me?!
+Em19|Выпустите меня|Let me go!
+Em20|Я ничего не трогала|I haven’t touched anything.
+Em21|Не нормальный псих|That sick monster...
+Em22|Я так долго не протяну|I won’t hold on much longer here.
+Em23|Аа! Нога!|Aah, my foot! 
+Em24|Пока он занят, у меня есть время заглянуть в его комнату.|While he is out, I сan sneak a peek into his room.
+Em25|Сейчас не лучшее время чтобы включать компрессор.|It's not the best time to turn on the compressor
+Em26|Похоже я здесь не единственная жертва этого психа.|Seems like I'm not the only victim of that psycho.
+Em27|Интересно кто это там шумел..|I wonder who's making that noise...
+Em28|Попробую позвать на помощь если кто-то будет проходить мимо.|I should call for help, in case someone wlse is around.
+Em29|Спасибо, я уже думала не выберусь отсюда.|Oh, thanks! I thought I'd never get out!
+Em30|Нужно сваливать через канализацию, пока он не вернулся обратно.|I need to crawl out of here through the sewer before he's back.
+
+
+	|Макс|
+Mx1|Погоди, сейчас открою|Wait, i'll open it
+Mx2|Давай бегом!|Come on, hurry up! 
+Mx3|Скорее бежим по дальше от этого места|Quickly! Let's get out of here! 
+Mx4|Давай пока никого нет|Let's leave before anyone shows up!
+
+	|Eugene|
+Eu0|В связи со сложившимися обстоятельствами мне пришлось покинуть город, в котором я жил, и переехать на неопределённое время в деревню. На улице уже стемнело, а за окном шёл сильный дождь. Вдруг во всей деревне отключили электропитание. В доме сразу стало темно и неуютно.\nРезкий стук в дверь напугал меня, но потом я вспомнил, что сегодня должна приехать жена. Я открыл входную дверь, но на пороге стоял  мужчина в капюшоне. Я не успел спросить кто он и что ему нужно, как он схватил меня за одежду и начал избивать, пока я не потерял сознание.\nОчнулся я утром в старом сарае. Не понимая, что происходит, я начал искать выход из этого жуткого места.|Given the circumstances, I had to leave the city where I was living and move to the countryside for an indefinite period of time. It was already dark and raining heavily outside the window. Suddenly, there was a power cut in the whole village. The house immediately became dark and not so homey.\nA loud banging on the door startled me, but then I remembered that my wife was about to arrive today. I opened the front door, but a hooded man was standing on the threshold. Before I could ask who he was and what he wanted, he grabbed me by my clothes and started beating me up until I lost consciousness.\nI woke up in the morning in an old barn. Not understanding what was going on, I started looking for a way out of this creepy place.
+
+Eu1|Нет фраз|
+
+	|МАНЬЯК|
+Fr1|Что это за шум!?|what's that noise!?|
+Fr2|Кто это там шумит!?|who's making that noise!?|
+Fr3|Какого черта!?|what the hell!?|
+Fr4|Кто открыл дверь в ванную!?|who opened the door to the bathroom!?|
+Fr5|Думаешь я не замечу открытый ящик!?|you think I won't notice an open box!?
+Fr6|Кто открыл ящик!?|who opened a locker!?
+Fr7|Кто включил панель управления!?|Who turned on the control panel!?
+Fr8|Кто трогал календарь!?|who toched the calendar!?
+Fr9|Эта веревка не могла упасть сама!|This rope couldn't fall by itself!
+Fr10|Я не понял кто включил лифт!?|I don't get it... Who turned on the elvator!?
+Fr11|А?|A?
+Fr12|Так, погоди-ка|Well wait a second
+Fr13|Что-то здесь не так|Something's wrong here
+Fr14|Здесь кто-то был?|Someone was here?
+Fr15|Хм, видимо показалось|Goddamn imagination|
+Fr16|Ну, вроде все на месте|Hmm... My mind's playing tricks on me
+Fr17|Види себя тихо!|Keep silent!
+Fr18|Ага!|Aha!
+Fr19|Кроме тебя тут никого нет!|Theres is noone here but you!
+Fr20|Вздумал играть со мной!|You're about to play games with me!
+Fr21|Думал сбежать!|Were you trying to escape!
+Fr22|Ах, ты!|Why you!
+Fr23|Кто-то сейчас получит смертельный разряд тока|Someone is going a knocking doze of electric shock
+Fr24|Ну держись!|Just you wait!
+Fr25|Думал я не замечу!?|You think i won't notice!
+Fr26|Думаешь я слепой!?|You think i'm goddamn blind!
+Fr27|
+Fr28|A ну живо открывай дверь!|Open the door right now!
+Fr29|Я тебя еще достану!|I'm coming to get you!
+Fr30|Будь ты проклят!|Goddamn you!
+Fr31|Где ты черт возьми!?|Where are you!?
+Fr32|Гг, иди к попочке!|Come to Daddy!
+Fr33|
+Fr34|Попался!|Gotcha!
+Fr35|О, смотри кто проснулся|Look who's awake
+Fr36|Доброе утро, хи-хи, как дела?|Good morning how are you doing?
+Fr37|Я еще зайду проведать тебя|i like you mood I'll come back later to check you
+Fr38|Хм, плохой ответ|Wrong answer
+Fr39|Ха-ха, ха!|Ha ha ha!
+Fr40|А ну живо открыла дверь!|Open the goddamn door!
+Fr41|Долбанный компрессор|Goddamn compressor
+Fr42|Кто открыл холодильник!?|Who opened the fridge!?
+Fr43|Кто открыл шкафчик!?|Who opened the locker!?
+Fr44|Кто трогал ноутбук!?|Who touched the laptop!?
+Fr45|Кто трогал электорщиток!?|Who touched the electrical panel!?
+Fr46|Кто открыл тумбу!?|Who opened the curbstone!?
+Fr47|Попалась!|Gotcha
+Fr48|Кто открыл дверь!?|Who opened the door!?
+Fr49|Ах ты тварь!|You bitch
+Fr50|Кто открыл решетку!?|Who opened the grating!?
+Fr51|Кто открыл микроволновку!?|Who opened the microwave!?
+Fr52|Кто забыл закрыть воду!?|Who forgot to close the water!?
+Fr53|Кто включил свет в ванной!?|Who've turned on the light in the bathroom!?
+Fr54|Кто отодвинул стенд!?|Who moved the stand!?
+Fr55|Ты что там шумишь!|What's that noise you're making?
+Fr56|Аа, что за черт!?|Aaa, what the hell?
+Fr57|Аа, что за шум!?|What's that noise?
+Fr58|Ах ты тварь! Это из-за тебя он сбежал! Аааа!|You prick he's escaped because of you!
+Fr59|Кто закрыл дверь! |This door was open when I left!
+Fr60|Эта дверь была открыта, когда я уходил!|Who closed the door!
+Fr61|Куда делась метла!?|Where is the broom!?
+Fr62|Метла в углу стояла не просто так!|The broom was in the corner for a reason!
+Fr63|Кто включил свет в кладовой!?|Who has turned on the light in the storeroom!?
+Fr64|Кто включил свет на чердаке!?|Who has turned on the light in the attic!?
+Fr65|Кто включил свет!?|Who has turned the light on!?
+Fr66|Свет был включен когда я уходил!|The light was on when I left!
+Fr67|Думаешь я не замечу открытое окно!?|You think I wouldn't notice the open window!?
+Fr68|Этот ящик был всегда открытый!|This desk drawer was always open!
+Fr69|Кто закрыл ящик!?|Who has closed the drawer!?
+Fr70|Думаешь я не замечу осколки бутылок!?|You think I wouldn't notice the shards of the bottles!?
+Fr71|Этот шкафчик был всегда открытый!|This locker was always open!
+Fr72|Кто закрыл шкафчик!?|Who has closed the locker!?
+Fr73|Думаешь я не замечу пропавший стул!?|You think I wouldn't notice the missing chair!?
+Fr74|Этот стул стоял в другом месте!|This chair was in a different place!
+Fr75|Стул стоял здесь не просто так!|The chair was here for a reason!
+Fr76|Кто открыл бочку!?|Who has opened the barrel!?
+Fr77|Кто открыл клетку!?|Who has opened the cage!?
+Fr78|А кто это проснулся? Доброе утро.|Look! Who's awake!? Good morning.
+Fr79|Ты совершил серьезную ошибку, и тебе придётся заплатить за нее. Вот скажи, тебя же учили лечить людей, не так ли?|You’ve made a serious mistake! And you have to pay for it. Just tell me, you were taught to heal people, right?
+Fr80|А как черта ты этого не делаешь!?|Why the hell don't you do that!?
+Fr81|Да? Ну тогда взбодрись, и освежи свою память!|Really? Well then, cheer up and refresh your memory! 
+Fr82|Проснулась пьяница. Я смотрю ты не изменяешь себе, все так же шляешься по клубам, да тусовкам.|Oh, the drunkard has woken up. I see you don’t change your habits and still hang around in clubs and parties.
+Fr83|Вот именно что ты ничего не сделала, а должна была просто выполнить свои обязанности! Но видимо выпивка для тебя важнее.|Exactly! You haven’t done anything! You just had to fulfill your obligations! But obviously, alcohol is more important.
+Fr84|Просыпайся! Просыпайся!|Wake up! Wake up! 
+Fr85|Ну вот ты и попался, виновник всего этого торжества! Посмотри на него, какой с виду хороший человек, любящий муж и бизнесмен, но оказался безжалостным ублюдком из-за своей трусости. Думал связи и деньги помогут тебе остаться не виновным?|Well, you got caught… The guest of honor! Look at him, he seems to be a good man. A loving husband and businessman, but turned out to be a remorseless bastard because of his cowardice. You thought numerous relationships and money would help you stay innocent, didn't you?
+Fr86|Ты и так отдашь все что у тебя есть, в том числе и свою жизнь.|Indeed, you will give everything you have, including your life.
+Fr87|А вот надо было думать головой, что ты делаешь!|The best thing for you was to use your head before doing something!
+
+
+
+	|Рождество|
+S1|С новым годом!|Happy New Year!|

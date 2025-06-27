@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6806764520858325055
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6806764520858325053}
+  - component: {fileID: 6806764520858325054}
+  m_Layer: 0
+  m_Name: PlayerManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6806764520858325053
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6806764520858325055}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 897.49695, y: 530.84875, z: 50.18654}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6806764520858325054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6806764520858325055}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26585919f60cc494a8fe66241af9dd8e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerName: Alan
+  BlackFade: {fileID: 0}
+  FadeTime: 1
+  StartWithFadeOut: 1
+  ElectricityEffect: {fileID: 0}
+  ElectricityEffectClip: {fileID: 8300000, guid: cbc65fc231689524ba5ee65144c99fc9,
+    type: 3}
+  GasEffectClip: {fileID: 0}
+  GetDamageClip: {fileID: 0}
+  BloodIntensive:
+  - {fileID: 0}
+  - {fileID: 0}
+  HideForLetter:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  HideAfterDeath:
+    list:
+    - list:
+      - {fileID: 0}
+      - {fileID: 0}
+    - list:
+      - {fileID: 0}
+      - {fileID: 0}
+  ShowAfterDeath:
+    list:
+    - list:
+      - {fileID: 0}
+    - list:
+      - {fileID: 0}
+  DropItemsAfterDeath: 10000000
+  RefreshObjectsAfterDeath:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  LooseWindow: {fileID: 0}
+  WinnerWindow: {fileID: 0}
+  GoodEnding: {fileID: 0}
+  TriggerGoodEnding: {fileID: 0}
+  BadEnding: {fileID: 0}
+  TriggerBadEnding: {fileID: 0}
+  TimeText: {fileID: 0}
+  HideForPC:
+  - {fileID: 0}
+  TimeForReward: 330
+  Reward: {fileID: 0}
+  DeadMax: {fileID: 0}

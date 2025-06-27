@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 50e10d9b1e28f984c816dd1105773a98
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Vase.000
+    100002: Vase.001
+    100004: Vase.002
+    100006: Vase.003
+    100008: Vase.004
+    100010: Vase.005
+    100012: Vase.006
+    100014: Vase.007
+    100016: Vase.008
+    100018: Vase.009
+    100020: Vase.010
+    100022: Vase.011
+    100024: Vase.012
+    100026: Vase.013
+    100028: Vase.014
+    100030: Vase.015
+    100032: Vase.016
+    100034: Vase.017
+    100036: Vase.018
+    100038: Vase.019
+    100040: Vase.020
+    100042: Vase.021
+    100044: Vase.022
+    100046: Vase.023
+    100048: Vase.024
+    100050: Vase.025
+    100052: Vase.026
+    100054: //RootNode
+    400000: Vase.000
+    400002: Vase.001
+    400004: Vase.002
+    400006: Vase.003
+    400008: Vase.004
+    400010: Vase.005
+    400012: Vase.006
+    400014: Vase.007
+    400016: Vase.008
+    400018: Vase.009
+    400020: Vase.010
+    400022: Vase.011
+    400024: Vase.012
+    400026: Vase.013
+    400028: Vase.014
+    400030: Vase.015
+    400032: Vase.016
+    400034: Vase.017
+    400036: Vase.018
+    400038: Vase.019
+    400040: Vase.020
+    400042: Vase.021
+    400044: Vase.022
+    400046: Vase.023
+    400048: Vase.024
+    400050: Vase.025
+    400052: Vase.026
+    400054: //RootNode
+    2100000: Vase
+    2300000: Vase.000
+    2300002: Vase.001
+    2300004: Vase.002
+    2300006: Vase.003
+    2300008: Vase.004
+    2300010: Vase.005
+    2300012: Vase.006
+    2300014: Vase.007
+    2300016: Vase.008
+    2300018: Vase.009
+    2300020: Vase.010
+    2300022: Vase.011
+    2300024: Vase.012
+    2300026: Vase.013
+    2300028: Vase.014
+    2300030: Vase.015
+    2300032: Vase.016
+    2300034: Vase.017
+    2300036: Vase.018
+    2300038: Vase.019
+    2300040: Vase.020
+    2300042: Vase.021
+    2300044: Vase.022
+    2300046: Vase.023
+    2300048: Vase.024
+    2300050: Vase.025
+    2300052: Vase.026
+    3300000: Vase.000
+    3300002: Vase.001
+    3300004: Vase.002
+    3300006: Vase.003
+    3300008: Vase.004
+    3300010: Vase.005
+    3300012: Vase.006
+    3300014: Vase.007
+    3300016: Vase.008
+    3300018: Vase.009
+    3300020: Vase.010
+    3300022: Vase.011
+    3300024: Vase.012
+    3300026: Vase.013
+    3300028: Vase.014
+    3300030: Vase.015
+    3300032: Vase.016
+    3300034: Vase.017
+    3300036: Vase.018
+    3300038: Vase.019
+    3300040: Vase.020
+    3300042: Vase.021
+    3300044: Vase.022
+    3300046: Vase.023
+    3300048: Vase.024
+    3300050: Vase.025
+    3300052: Vase.026
+    4300000: Vase.001
+    4300002: Vase.007
+    4300004: Vase.000
+    4300006: Vase.002
+    4300008: Vase.003
+    4300010: Vase.004
+    4300012: Vase.005
+    4300014: Vase.006
+    4300016: Vase.008
+    4300018: Vase.009
+    4300020: Vase.010
+    4300022: Vase.011
+    4300024: Vase.012
+    4300026: Vase.013
+    4300028: Vase.014
+    4300030: Vase.015
+    4300032: Vase.016
+    4300034: Vase.017
+    4300036: Vase.018
+    4300038: Vase.019
+    4300040: Vase.020
+    4300042: Vase.021
+    4300044: Vase.022
+    4300046: Vase.023
+    4300048: Vase.024
+    4300050: Vase.025
+    4300052: Vase.026
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vase
+    second: {fileID: 2100000, guid: f1e63360cccf89341a0252b5fb3b71d1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
